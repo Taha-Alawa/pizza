@@ -17,7 +17,7 @@
 } */
 
 * {
-  font-family: "Lexend Deca", sans-serif;
+  font-family: var(--font-lexened);
   font-optical-sizing: auto;
   font-style: normal;
 }
